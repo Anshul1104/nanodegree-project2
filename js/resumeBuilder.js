@@ -9,7 +9,7 @@ var bio = {
         "github": "anshul1104",
         "location": "New Delhi, India"
     },
-    "skills": ["HTML", "CSS", "Bootstrap", "Hadoop", "Adobe Photoshop"]
+    "skills": ["HTML5", "CSS3", "Bootstrap", "Wordpress", "Adobe Photoshop", "jQuery"]
 };
 
 var education = {
